@@ -14,7 +14,9 @@ The below are the considerations followed for this sample  project:
 - Kotlin Coroutines
 - All JetPack Components
 
-
+## FLOW
+The below image is the flow of this project:
+<img src="images/flow.png"/>
 <!-- ## Tests
 - [Mockk](https://mockk.io/) library 
 - Unit tests
